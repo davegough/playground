@@ -1,3 +1,4 @@
+<a href="https://github.com/davegough/playground/actions"><img src="https://github.com/davegough/playground/workflows/test-my-app/badge.svg" alt="Build Status"></a>
 # playproject
 
 A new Flutter project.
